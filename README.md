@@ -10,7 +10,7 @@
 
 
 ## Demo
-Link: [https://flight-price-prediction-api.herokuapp.com/](https://flight-price-prediction-api.herokuapp.com/)
+Link: https://health-insurance-prediction-2.herokuapp.com/](https://health-insurance-prediction-2.herokuapp.com/)
 
 ## Overview
 This is a Flask web app which predicts the cost of health insurance.
